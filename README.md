@@ -12,7 +12,7 @@ A modern, responsive, zero-dependency academic and pharmaceutical researcher por
   - **ORCID**: [0009-0007-0803-1126](https://orcid.org/0009-0007-0803-1126)
   - **Google Scholar**: [Anbarasu Murugan Citations](https://scholar.google.com/citations?user=WpbrpjoAAAAJ&hl=en)
   - **LinkedIn**: [anbarasum2003](https://www.linkedin.com/in/anbarasum2003)
-  - **WhatsApp**: [1234567890](https://wa.me/919360651025)
+  - **WhatsApp**: [1234567890](https://wa.me/anbarasu_lovemaths)
   - **Email**: anbarasaum@gmail.com
 
 ---
